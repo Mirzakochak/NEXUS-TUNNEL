@@ -37,5 +37,5 @@
 دستور زیر را روی **هر دو سرور** (ایران و خارج) کپی و اجرا کنید. اسکریپت به صورت خودکار محیط را آماده می‌کند.
 
 ```bash
-bash <(curl -Ls [https://raw.githubusercontent.com/Mirzakochak/NEXUS-TUNNEL/main/install.sh](https://raw.githubusercontent.com/Mirzakochak/NEXUS-TUNNEL/main/install.sh))
+bash <(curl -Ls [https://raw.githubusercontent.com/Mirzakochak/NEXUS-TUNNEL/main/install.sh))
 
