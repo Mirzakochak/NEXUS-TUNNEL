@@ -38,4 +38,4 @@
 
 ```bash
 bash <(curl -Ls [https://raw.githubusercontent.com/Mirzakochak/NEXUS-TUNNEL/main/install.sh](https://raw.githubusercontent.com/Mirzakochak/NEXUS-TUNNEL/main/install.sh))
-```bash
+
