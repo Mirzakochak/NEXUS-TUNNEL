@@ -27,7 +27,7 @@ echo -e "${GREEN}[+] Dependencies installed successfully.${NC}"
 
 # 3. Download the Python Script (Replace USERNAME with your github username)
 # IMPORTANT: Change 'YOUR_GITHUB_USER' below to your actual username!
-GITHUB_URL="GITHUB_URL="https://raw.githubusercontent.com/Mirzakochak/NEXUS-TUNNEL/main/nexus.py""
+GITHUB_URL="GITHUB_URL="https://raw.githubusercontent.com/Mirzakochak/NEXUS-TUNNEL/main/nexus.py"
 FILE_NAME="nexus.py"
 
 echo -e "${GREEN}[+] Fetching NEXUS Core...${NC}"
